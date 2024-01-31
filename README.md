@@ -10,5 +10,6 @@ The Mirasol method is an approach for integrating and processing multimodal data
 
 In order to run the code it will be needed to install few packages:
 ```zsh
-pip3 install torch torchvision torchaudio av json
+git clone https://github.com/Rivoks/nn-sapienza-mirasol-pytorch
+pip3 install torch torchvision torchaudio av json matplotlib
 ```
